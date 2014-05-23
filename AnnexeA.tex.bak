@@ -1,0 +1,41 @@
+\chapter{Annexe}
+\label{Annexe} 
+\lhead{\normalsize \bf \fontfamily{lmss}\selectfont {Annexe}}
+\section{Numbty}
+\paragraph*{}
+Numbty: a numbty is a person whose brain is totally numb. In this context, numb means "deprived of feeling or the power of unassisted activity"; in general, a numbty needs the stimulation of an electric cattle prod to even get to the right office in the morning. Communication with numbties is severely hampered by the fact that although they think they know what they mean (which they do not), they seldom actually say it, and they never write it down. And the main employment of numbties world-wide is in creating project specifications. You must know this - and protect your team accordingly.
+\section{Radial example}
+\paragraph*{}
+This example shows:
+\begin{itemize}[font=\color{black}, label=\maltese]
+\item A radial graph
+\item The selected node is "S", as "X" is a direct linked node (level 1), Y a level 2 linked node and F
+must not be depicted in the picture because it is not linked to a level 1, F is a level 3 node
+\item Relations with arrows, unidirectional "in" and unidirectional "out" and bidirectional
+\end{itemize}
+\begin{figure}[h]
+\centering
+\includegraphics[scale=0.5, frame]{RadialGraph.png}
+\caption{Radial Graph}
+\end{figure}
+\subsubsection{Radial}
+The chosen node is the center of the graph\\
+The linked nodes are organized on circles (aka orbit) as per distance level\\
+Rules: when a node "A" is linked with two (or more) nodes of situated on different orbits, the node is
+placed on the lowest orbit as possible. For example:
+\begin{itemize}
+\item Node$_$ a is the central node
+\item Node$_$ a is linked with Node$_$ b and node$_$ c \rightarrow Node_b and Node_c are on orbit 1
+\item If Node$_$b and Node$_$ c are linked it creates a transversal relation of the same level
+\item Node$_$ b is linked with Node$_$ d \rightarrow node$_$ d is on orbit 2
+\item Node$_ $c is linked with Node$_$ e \rightarrow node$_$ e is on orbit 2
+\item Node$_$ e is linked with Node$_$ f \rightarrow node$_$ f is on orbit 3 at this point, when continuing the exploration we notice that:
+\begin{itemize}
+\item Node$_$ f is linked with Node$_$b \rightarrow node$_$ f is promoted to orbit 2 Please note that the
+exploration does not take into account the link direction property, that can make the
+exploration more recursive.
+\end{itemize}
+\end{itemize}
+\paragraph*{}
+Biradial and triradial might be an option to be developed in a later stage if useful. A biradial will consist in selecting two nodes and a triradial three nodes. These nodes might not have a common a common link. The selected nodes must be displayed on the screen harmoniously (in triangle for a triradial graph). This feature might be required to show how two or threee nodes are linked together
+\section{Parsing JSON tree structure to the JIT}

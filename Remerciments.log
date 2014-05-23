@@ -1,0 +1,1507 @@
+This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2014.4.23)  19 MAY 2014 06:04
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Remerciments.tex
+(./Remerciments.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 62 languages loaded.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \begin{center}
+                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--3
+[] 
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+anttlc on input line 4
+.
+LaTeX Font Info:    No file OT1anttlc.fd. on input line 4.
+
+LaTeX Font Warning: Font shape `OT1/anttlc/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 4.
+
+! Undefined control sequence.
+l.4  {\fontfamily{anttlc}\selectfont{{\Huge
+                                            \textbf{ Acknowledgments}}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Font Warning: Font shape `OT1/anttlc/bx/n' undefined
+(Font)              using `OT1/anttlc/m/n' instead on input line 4.
+
+
+Overfull \hbox (15.27779pt too wide) in paragraph at lines 4--5
+ \OT1/anttlc/m/n/10 Ac- 
+ []
+
+
+Overfull \hbox (28.88895pt too wide) in paragraph at lines 4--5
+ \OT1/anttlc/m/n/10 knowl- 
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 4--5
+ \OT1/anttlc/m/n/10 edg- 
+ []
+
+
+Overfull \hbox (25.88893pt too wide) in paragraph at lines 4--5
+ \OT1/anttlc/m/n/10 ments 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 8--8
+[] 
+ []
+
+! Undefined control sequence.
+l.10 {\LARGE
+             \textit{I}}} would like to express my deepest appreciation to a...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Font Warning: Font shape `OT1/anttlc/m/it' undefined
+(Font)              using `OT1/anttlc/m/n' instead on input line 10.
+
+! Undefined control sequence.
+<recently read> \mathscr 
+                         
+l.10 ...rsity, Mr. \textit{\mathscr{Fahem KEBAIR}}
+                                                  , whose contribution in st...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (3.61111pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 I 
+ []
+
+
+Overfull \hbox (25.83339pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 would 
+ []
+
+
+Overfull \hbox (15.00003pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 like 
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 to 
+ []
+
+
+Overfull \hbox (13.05557pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 ex- 
+ []
+
+
+Overfull \hbox (21.80557pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 press 
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 my 
+ []
+
+
+Overfull \hbox (23.33336pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 deep- 
+ []
+
+
+Overfull \hbox (12.27779pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 est 
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 ap- 
+ []
+
+
+Overfull \hbox (17.25002pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 pre- 
+ []
+
+
+Overfull \hbox (10.55556pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 ci- 
+ []
+
+
+Overfull \hbox (8.33334pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 a- 
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 tion 
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 to 
+ []
+
+
+Overfull \hbox (10.55559pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 all 
+ []
+
+
+Overfull \hbox (22.83337pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 those 
+ []
+
+
+Overfull \hbox (17.77782pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 who 
+ []
+
+
+Overfull \hbox (17.80559pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 pro- 
+ []
+
+
+Overfull \hbox (23.61118pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 vided 
+ []
+
+
+Overfull \hbox (12.7778pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 me 
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 the 
+ []
+
+
+Overfull \hbox (18.11115pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 pos- 
+ []
+
+
+Overfull \hbox (10.05556pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 si- 
+ []
+
+
+Overfull \hbox (14.44447pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 bil- 
+ []
+
+
+Overfull \hbox (11.6667pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 ity 
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 to 
+ []
+
+
+Overfull \hbox (21.11115pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 com- 
+ []
+
+
+Overfull \hbox (21.11115pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 plete 
+ []
+
+
+Overfull \hbox (16.1667pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 this 
+ []
+
+
+Overfull \hbox (11.69444pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 re- 
+ []
+
+
+Overfull \hbox (21.41673pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 port. 
+ []
+
+
+Overfull \hbox (7.50002pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 A 
+ []
+
+
+Overfull \hbox (17.55557pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 spe- 
+ []
+
+
+Overfull \hbox (15.00003pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 cial 
+ []
+
+
+Overfull \hbox (21.13893pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 grat- 
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 i- 
+ []
+
+
+Overfull \hbox (19.44449pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 tude 
+ []
+
+
+Overfull \hbox (3.61111pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 I 
+ []
+
+
+Overfull \hbox (17.22226pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 give 
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 to 
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 my 
+ []
+
+
+Overfull \hbox (12.83334pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 su- 
+ []
+
+
+Overfull \hbox (17.5278pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 per- 
+ []
+
+
+Overfull \hbox (11.38892pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 vi- 
+ []
+
+
+Overfull \hbox (12.86113pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 sor 
+ []
+
+
+Overfull \hbox (8.33336pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 in 
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 the 
+ []
+
+
+Overfull \hbox (17.22226pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 uni- 
+ []
+
+
+Overfull \hbox (16.69446pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 ver- 
+ []
+
+
+Overfull \hbox (17.55559pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 sity, 
+ []
+
+
+Overfull \hbox (15.86115pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 Mr. 
+ []
+
+
+Overfull \hbox (14.0278pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 Fa- 
+ []
+
+
+Overfull \hbox (18.33337pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 hem 
+ []
+
+
+Overfull \hbox (17.9167pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 KE- 
+ []
+
+
+Overfull \hbox (28.33339pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 BAIR, 
+ []
+
+
+Overfull \hbox (26.1667pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 whose 
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 con- 
+ []
+
+
+Overfull \hbox (13.91669pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 tri- 
+ []
+
+
+Overfull \hbox (14.44447pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 bu- 
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 tion 
+ []
+
+
+Overfull \hbox (8.33336pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 in 
+ []
+
+
+Overfull \hbox (22.27782pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 stim- 
+ []
+
+
+Overfull \hbox (8.8889pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 u- 
+ []
+
+
+Overfull \hbox (15.00003pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 lat- 
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 ing 
+ []
+
+
+Overfull \hbox (17.83336pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 sug- 
+ []
+
+
+Overfull \hbox (16.72223pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 ges- 
+ []
+
+
+Overfull \hbox (21.16672pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 tions 
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 and 
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 en- 
+ []
+
+
+Overfull \hbox (22.25003pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 cour- 
+ []
+
+
+Overfull \hbox (17.7778pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 age- 
+ []
+
+
+Overfull \hbox (24.72227pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 ment, 
+ []
+
+
+Overfull \hbox (28.61118pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 helped 
+ []
+
+
+Overfull \hbox (12.7778pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 me 
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 to 
+ []
+
+
+Overfull \hbox (12.77779pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 co- 
+ []
+
+
+Overfull \hbox (12.25002pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 or- 
+ []
+
+
+Overfull \hbox (11.66669pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 di- 
+ []
+
+
+Overfull \hbox (18.88893pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 nate 
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 my 
+ []
+
+
+Overfull \hbox (30.86116pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 project 
+ []
+
+
+Overfull \hbox (11.72221pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 es- 
+ []
+
+
+Overfull \hbox (13.61113pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 pe- 
+ []
+
+
+Overfull \hbox (23.05562pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 cially 
+ []
+
+
+Overfull \hbox (8.33336pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 in 
+ []
+
+
+Overfull \hbox (21.13892pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 writ- 
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 ing 
+ []
+
+
+Overfull \hbox (16.1667pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 this 
+ []
+
+
+Overfull \hbox (11.69444pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 re- 
+ []
+
+
+Overfull \hbox (21.41673pt too wide) in paragraph at lines 10--10
+\OT1/anttlc/m/it/10 port.  
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...ject especially in writing this report. \\
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}]
+! Undefined control sequence.
+l.12 {\LARGE
+             \textit{I}} take this opportunity to express my profound gratit...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (3.61111pt too wide) in paragraph at lines 12--12
+[]\OT1/anttlc/m/it/10 I 
+ []
+
+
+Overfull \hbox (18.33337pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 take 
+ []
+
+
+Overfull \hbox (16.1667pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 this 
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 op- 
+ []
+
+
+Overfull \hbox (18.08337pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 por- 
+ []
+
+
+Overfull \hbox (12.7778pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 tu- 
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 nity 
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 to 
+ []
+
+
+Overfull \hbox (13.05557pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 ex- 
+ []
+
+
+Overfull \hbox (21.80557pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 press 
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 my 
+ []
+
+
+Overfull \hbox (17.80559pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 pro- 
+ []
+
+
+Overfull \hbox (24.7223pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 found 
+ []
+
+
+Overfull \hbox (21.13893pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 grat- 
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 i- 
+ []
+
+
+Overfull \hbox (19.44449pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 tude 
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 and 
+ []
+
+
+Overfull \hbox (20.00003pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 deep 
+ []
+
+
+Overfull \hbox (11.69444pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 re- 
+ []
+
+
+Overfull \hbox (23.41672pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 gards 
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 to 
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 my 
+ []
+
+
+Overfull \hbox (23.33339pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 guide 
+ []
+
+
+Overfull \hbox (19.05559pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 Pro- 
+ []
+
+
+Overfull \hbox (14.77779pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 fes- 
+ []
+
+
+Overfull \hbox (12.86113pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 sor 
+ []
+
+
+Overfull \hbox (27.91672pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 Ramzi 
+ []
+
+
+Overfull \hbox (25.48615pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 GUE- 
+ []
+
+
+Overfull \hbox (24.86113pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 TARI 
+ []
+
+
+Overfull \hbox (11.97226pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 for 
+ []
+
+
+Overfull \hbox (12.2778pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 his 
+ []
+
+
+Overfull \hbox (13.05557pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 ex- 
+ []
+
+
+Overfull \hbox (16.11113pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 em- 
+ []
+
+
+Overfull \hbox (22.52785pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 plary 
+ []
+
+
+Overfull \hbox (22.22227pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 guid- 
+ []
+
+
+Overfull \hbox (22.22226pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 ance, 
+ []
+
+
+Overfull \hbox (22.22227pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 mon- 
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 i- 
+ []
+
+
+Overfull \hbox (16.13892pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 tor- 
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 ing 
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 and 
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 con- 
+ []
+
+
+Overfull \hbox (22.00005pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 stant 
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 en- 
+ []
+
+
+Overfull \hbox (22.25003pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 cour- 
+ []
+
+
+Overfull \hbox (17.7778pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 age- 
+ []
+
+
+Overfull \hbox (21.94449pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 ment 
+ []
+
+
+Overfull \hbox (37.80565pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 through- 
+ []
+
+
+Overfull \hbox (14.44449pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 out 
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 the 
+ []
+
+
+Overfull \hbox (27.30559pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 course 
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 of 
+ []
+
+
+Overfull \hbox (16.1667pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 this 
+ []
+
+
+Overfull \hbox (24.47227pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 train- 
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 ing. 
+ []
+
+
+Overfull \hbox (17.22224pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 The 
+ []
+
+
+Overfull \hbox (24.00002pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 bless- 
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 ing, 
+ []
+
+
+Overfull \hbox (18.33337pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 help 
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 and 
+ []
+
+
+Overfull \hbox (22.22227pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 guid- 
+ []
+
+
+Overfull \hbox (19.44447pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 ance 
+ []
+
+
+Overfull \hbox (22.77783pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 given 
+ []
+
+
+Overfull \hbox (10.55559pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 by 
+ []
+
+
+Overfull \hbox (16.66672pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 him 
+ []
+
+
+Overfull \hbox (19.44449pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 time 
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 to 
+ []
+
+
+Overfull \hbox (19.44449pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 time 
+ []
+
+
+Overfull \hbox (20.0556pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 shall 
+ []
+
+
+Overfull \hbox (22.5556pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 carry 
+ []
+
+
+Overfull \hbox (12.7778pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 me 
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 a 
+ []
+
+
+Overfull \hbox (18.33339pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 long 
+ []
+
+
+Overfull \hbox (16.94447pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 way 
+ []
+
+
+Overfull \hbox (8.33336pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 in 
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 the 
+ []
+
+
+Overfull \hbox (20.86116pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 jour- 
+ []
+
+
+Overfull \hbox (15.27782pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 ney 
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 of 
+ []
+
+
+Overfull \hbox (13.05559pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 life 
+ []
+
+
+Overfull \hbox (10.55559pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 on 
+ []
+
+
+Overfull \hbox (25.27782pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 which 
+ []
+
+
+Overfull \hbox (3.61111pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 I 
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 am 
+ []
+
+
+Overfull \hbox (25.27786pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 about 
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 to 
+ []
+
+
+Overfull \hbox (16.11113pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 em- 
+ []
+
+
+Overfull \hbox (22.52785pt too wide) in paragraph at lines 12--12
+\OT1/anttlc/m/it/10 bark.  
+ []
+
+! Undefined control sequence.
+l.14 {\LARGE
+             \textit{I}} also take this opportunity to express a deep sense ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (3.61111pt too wide) in paragraph at lines 14--14
+[]\OT1/anttlc/m/it/10 I 
+ []
+
+
+Overfull \hbox (16.72226pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 also 
+ []
+
+
+Overfull \hbox (18.33337pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 take 
+ []
+
+
+Overfull \hbox (16.1667pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 this 
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 op- 
+ []
+
+
+Overfull \hbox (18.08337pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 por- 
+ []
+
+
+Overfull \hbox (12.7778pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 tu- 
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 nity 
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 to 
+ []
+
+
+Overfull \hbox (13.05557pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 ex- 
+ []
+
+
+Overfull \hbox (21.80557pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 press 
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 a 
+ []
+
+
+Overfull \hbox (20.00003pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 deep 
+ []
+
+
+Overfull \hbox (22.33334pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 sense 
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 of 
+ []
+
+
+Overfull \hbox (21.13893pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 grat- 
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 i- 
+ []
+
+
+Overfull \hbox (19.44449pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 tude 
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 to 
+ []
+
+
+Overfull \hbox (15.86115pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 Mr. 
+ []
+
+
+Overfull \hbox (24.19449pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 Henri 
+ []
+
+
+Overfull \hbox (23.19449pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 SEV- 
+ []
+
+
+Overfull \hbox (31.38893pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 ERAC, 
+ []
+
+
+Overfull \hbox (17.22224pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 chef 
+ []
+
+
+Overfull \hbox (21.11115pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 com- 
+ []
+
+
+Overfull \hbox (21.11118pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 pany 
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 , 
+ []
+
+
+Overfull \hbox (33.91675pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 Stradefi 
+ []
+
+
+Overfull \hbox (15.83337pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 SA, 
+ []
+
+
+Overfull \hbox (11.97226pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 for 
+ []
+
+
+Overfull \hbox (12.2778pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 his 
+ []
+
+
+Overfull \hbox (16.69446pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 cor- 
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 dial 
+ []
+
+
+Overfull \hbox (18.38892pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 sup- 
+ []
+
+
+Overfull \hbox (21.41673pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 port, 
+ []
+
+
+Overfull \hbox (21.38895pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 valu- 
+ []
+
+
+Overfull \hbox (17.77782pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 able 
+ []
+
+
+Overfull \hbox (11.66669pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 in- 
+ []
+
+
+Overfull \hbox (15.30559pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 for- 
+ []
+
+
+Overfull \hbox (16.6667pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 ma- 
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 tion 
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 and 
+ []
+
+
+Overfull \hbox (22.22227pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 guid- 
+ []
+
+
+Overfull \hbox (22.22226pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 ance, 
+ []
+
+
+Overfull \hbox (25.27782pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 which 
+ []
+
+
+Overfull \hbox (28.61118pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 helped 
+ []
+
+
+Overfull \hbox (12.7778pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 me 
+ []
+
+
+Overfull \hbox (8.33336pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 in 
+ []
+
+
+Overfull \hbox (21.11115pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 com- 
+ []
+
+
+Overfull \hbox (20.00003pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 plet- 
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 ing 
+ []
+
+
+Overfull \hbox (16.1667pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 this 
+ []
+
+
+Overfull \hbox (18.11116pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 task 
+ []
+
+
+Overfull \hbox (34.47232pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 through 
+ []
+
+
+Overfull \hbox (16.97226pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 var- 
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 i- 
+ []
+
+
+Overfull \hbox (14.50003pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 ous 
+ []
+
+
+Overfull \hbox (29.00005pt too wide) in paragraph at lines 14--14
+\OT1/anttlc/m/it/10 stages.  
+ []
+
+! Undefined control sequence.
+l.16 {\LARGE
+             \textit{L}}astly, I thank almighty, my parents, brother, sister...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (29.0834pt too wide) in paragraph at lines 16--17
+[]\OT1/anttlc/m/it/10 Lastly, 
+ []
+
+
+Overfull \hbox (3.61111pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 I 
+ []
+
+
+Overfull \hbox (25.27786pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 thank 
+ []
+
+
+Overfull \hbox (40.0001pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 almighty, 
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 my 
+ []
+
+
+Overfull \hbox (17.80559pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 par- 
+ []
+
+
+Overfull \hbox (20.33336pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 ents, 
+ []
+
+
+Overfull \hbox (35.05563pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 brother, 
+ []
+
+
+Overfull \hbox (14.0pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 sis- 
+ []
+
+
+Overfull \hbox (16.19446pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 ters 
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 and 
+ []
+
+
+Overfull \hbox (29.25006pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 friends 
+ []
+
+
+Overfull \hbox (11.97226pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 for 
+ []
+
+
+Overfull \hbox (20.58337pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 their 
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 con- 
+ []
+
+
+Overfull \hbox (22.00005pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 stant 
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 en- 
+ []
+
+
+Overfull \hbox (22.25003pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 cour- 
+ []
+
+
+Overfull \hbox (17.7778pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 age- 
+ []
+
+
+Overfull \hbox (21.94449pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 ment 
+ []
+
+
+Overfull \hbox (22.77782pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 with- 
+ []
+
+
+Overfull \hbox (14.44449pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 out 
+ []
+
+
+Overfull \hbox (25.27782pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 which 
+ []
+
+
+Overfull \hbox (16.1667pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 this 
+ []
+
+
+Overfull \hbox (18.61115pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 doc- 
+ []
+
+
+Overfull \hbox (8.8889pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 u- 
+ []
+
+
+Overfull \hbox (21.94449pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 ment 
+ []
+
+
+Overfull \hbox (25.83339pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 would 
+ []
+
+
+Overfull \hbox (14.44449pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 not 
+ []
+
+
+Overfull \hbox (10.2778pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 be 
+ []
+
+
+Overfull \hbox (18.11115pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 pos- 
+ []
+
+
+Overfull \hbox (10.05556pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 si- 
+ []
+
+
+Overfull \hbox (15.55559pt too wide) in paragraph at lines 16--17
+\OT1/anttlc/m/it/10 ble.  
+ []
+
+)
+! Emergency stop.
+<*> Remerciments.tex
+                    
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 18 strings out of 493387
+ 315 string characters out of 6143040
+ 55741 words of memory out of 5000000
+ 3549 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 953 hyphenation exceptions out of 8191
+ 16i,4n,11p,420b,169s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
