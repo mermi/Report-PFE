@@ -1,0 +1,60 @@
+\select@language {english}
+\contentsline {starchapter}{Introduction}{1}{section*.3}
+\contentsline {chapter}{\numberline {I}Problem Statement}{3}{chapter.1}
+\contentsline {section}{\numberline {I.1}Introduction}{4}{section.1.1}
+\contentsline {section}{\numberline {I.2}Company's presentation}{4}{section.1.2}
+\contentsline {section}{\numberline {I.3}Project issues}{4}{section.1.3}
+\contentsline {section}{\numberline {I.4}Project summary}{6}{section.1.4}
+\contentsline {subsection}{\numberline {I.4.1}Proposed solution}{6}{subsection.1.4.1}
+\contentsline {section}{\numberline {I.5}Conclusion}{7}{section.1.5}
+\contentsline {chapter}{\numberline {II}State of the art}{8}{chapter.2}
+\contentsline {section}{\numberline {II.1}Introduction}{9}{section.2.1}
+\contentsline {section}{\numberline {II.2}Radial representation}{9}{section.2.2}
+\contentsline {subsection}{\numberline {II.2.1}Javascript Infovis Tools (JIT) Framework}{9}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {II.2.2}D3JS Framework}{11}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {II.2.3}Sigma JS Framework}{11}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {II.2.4}Discussion}{11}{subsection.2.2.4}
+\contentsline {section}{\numberline {II.3}Conclusion}{13}{section.2.3}
+\contentsline {chapter}{\numberline {III}Feasibility Analysis and Requirements Determination}{14}{chapter.3}
+\contentsline {section}{\numberline {III.1}Introduction}{15}{section.3.1}
+\contentsline {section}{\numberline {III.2}Identification of the business requierements}{15}{section.3.2}
+\contentsline {section}{\numberline {III.3}Analysis of business requirements}{17}{section.3.3}
+\contentsline {subsection}{\numberline {III.3.1}The general Use Case}{17}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {III.3.2}Use Case: Display a Graph}{18}{subsection.3.3.2}
+\contentsline {subsubsection}{\numberline {III.3.2.1}Use Case description}{19}{subsubsection.3.3.2.1}
+\contentsline {subsubsection}{\numberline {III.3.2.2}Use Case diagram}{19}{subsubsection.3.3.2.2}
+\contentsline {subsubsection}{\numberline {III.3.2.3}The "Display Graph" activity diagram}{20}{subsubsection.3.3.2.3}
+\contentsline {subsubsection}{\numberline {III.3.2.4}Use Case: Update Node}{21}{subsubsection.3.3.2.4}
+\contentsline {subsubsection}{\numberline {III.3.2.5}Use Case diagram }{21}{subsubsection.3.3.2.5}
+\contentsline {subsubsection}{\numberline {III.3.2.6}The "Update Nodes" Activity Diagram}{21}{subsubsection.3.3.2.6}
+\contentsline {section}{\numberline {III.4}Conclusion}{22}{section.3.4}
+\contentsline {chapter}{\numberline {IV}The project plan}{23}{chapter.4}
+\contentsline {section}{\numberline {IV.1}Introduction}{24}{section.4.1}
+\contentsline {section}{\numberline {IV.2}Methodology and software development life cycle}{25}{section.4.2}
+\contentsline {subsection}{\numberline {IV.2.1}SCRUM's presentation}{25}{subsection.4.2.1}
+\contentsline {subsubsection}{\numberline {IV.2.1.1}Scrum Principles}{27}{subsubsection.4.2.1.1}
+\contentsline {subsubsection}{\numberline {IV.2.1.2}Adopting an Empirical vs. Planned Process}{27}{subsubsection.4.2.1.2}
+\contentsline {subsubsection}{\numberline {IV.2.1.3}Scrum and Software Agility}{28}{subsubsection.4.2.1.3}
+\contentsline {section}{\numberline {IV.3}The $IG{^2}$ project management}{29}{section.4.3}
+\contentsline {section}{\numberline {IV.4}The overall list requirements}{31}{section.4.4}
+\contentsline {section}{\numberline {IV.5}Conclusion}{32}{section.4.5}
+\contentsline {chapter}{\numberline {V}Realization}{33}{chapter.5}
+\contentsline {section}{\numberline {V.1}Introduction}{34}{section.5.1}
+\contentsline {section}{\numberline {V.2}The MVC Architecture}{34}{section.5.2}
+\contentsline {section}{\numberline {V.3}The 3-tiers architecture point of view of the $ IG{^2} $}{35}{section.5.3}
+\contentsline {section}{\numberline {V.4}The MVC architecture point of view of the $IG{^2}$}{35}{section.5.4}
+\contentsline {section}{\numberline {V.5}The logical architecture}{36}{section.5.5}
+\contentsline {section}{\numberline {V.6}Class diagram}{37}{section.5.6}
+\contentsline {section}{\numberline {V.7}The sprints' achievement}{38}{section.5.7}
+\contentsline {subsection}{\numberline {V.7.1}Sprint "zero": Project initiation}{38}{subsection.5.7.1}
+\contentsline {subsection}{\numberline {V.7.2}Sprint "one": Rendering a radial graph}{39}{subsection.5.7.2}
+\contentsline {subsubsection}{\numberline {V.7.2.1}Detailed design of Sprint "one"}{39}{subsubsection.5.7.2.1}
+\contentsline {subsubsection}{\numberline {V.7.2.2}Implementation and execution of Sprint "one"}{40}{subsubsection.5.7.2.2}
+\contentsline {subsection}{\numberline {V.7.3}Sprint "two": managing relations and updating the nodes properties}{42}{subsection.5.7.3}
+\contentsline {subsubsection}{\numberline {V.7.3.1}Detailed design of sprint "two"}{42}{subsubsection.5.7.3.1}
+\contentsline {subsubsection}{\numberline {V.7.3.2}Implementation and execution of Sprint "two"}{43}{subsubsection.5.7.3.2}
+\contentsline {subsection}{\numberline {V.7.4}Sprint "three": $IG{^2}$ localization}{44}{subsection.5.7.4}
+\contentsline {subsubsection}{\numberline {V.7.4.1}Implementation and execution of Sprint "three"}{45}{subsubsection.5.7.4.1}
+\contentsline {starchapter}{General Conclusion}{48}{section*.102}
+\contentsline {chapter}{Bibliography}{50}{section*.107}
+\contentsline {chapter}{Webography}{52}{section*.107}

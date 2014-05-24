@@ -1,0 +1,30 @@
+\pagenumbering{arabic} \setcounter{page}{1}
+
+\chapter*{Introduction}
+\phantomsection
+%\addcontentsline{toc}{chapter}{Introduction}
+\addstarredchapter{Introduction}
+ \pagestyle{fancy}
+ \thispagestyle{\renewcommand{\headrulewidth}{0pt}}
+\rhead{}
+\lettrine[lines=2,lhang=0.44,lraise=0,loversize=0.08,findent=-0.11em,slope=0.6em]%
+{I}{} ncreasingly, data is viewed as the lifeblood of organizations. Across industries, information is sliced, diced and analyzed for trends, anomalies and insights that lead to better outcomes and strategies . In support of this, more and more organizations have adopted business intelligence (BI) solutions that help them fully capitalize on data at their fingertips. 
+\paragraph*{}
+Business Intelligence is the process of transforming raw data into meaningful information to enable more effective business insight and decision-making 
+In fact, according to Gartner, the worldwide market for BI platforms, analytics and performance management software market grew to \$12.2 billion in 2011. Moreover, a recent Gartner survey found that CIOs list BI and analytics technology as their N° 1 priority for 2012.
+\paragraph*{}
+It's no surprise that these BI tools are increasingly used in conjunction with enterprise applications such as customer relationship management, enterprise resource planning and enterprise asset management, to name a few. By applying an analytics layer to these mission-critical applications, organizations derive greater value from the data they gather. Plucking new insights from and making more use of the data at their disposal helps businesses boost the ROI on these significant investment.
+\paragraph*{}
+BI software allows therefore companies to tap into their many databases and deliver easy-to-comprehend insights to employees, management and business partners.
+Far from mere "eye candy," data visualization is critical to fulfilling widely held goals for expanding organizations? analytics culture and driving more decisions with data. Across organizations, employees who are subject matter experts in areas such as marketing, customer service, online engagement, finance, and more need to interact with data and analyze it for significant patterns, trends, and anomalies.
+\paragraph*{} 
+Yet, most of these professionals would hardly consider themselves "business intelligence users," much less professional data scientists or data analysts. Tools and practices for data visualization, data discovery, and visual analysis are enabling these "nontechnical" users to make effective use of data and reduce their time to insight.
+Data visualization sits at the confluence of advances in technology, the study of human cognition and perception, graphical interfaces, widespread adoption of standards for rich Internet applications, and the continuing expansion of interest and experience in analytics and data discovery. Data visualization can contribute significantly to the fruitful interpretation and sharing of insights from analytics, enabling nontechnical SMEs to perform data discovery in a self-directed fashion. 
+\paragraph*{}
+Implementation of chart engines and the growth in the number and variety of visualizations available in graphics libraries are supporting new sophistication in visual analysis, allowing users to go beyond simple bar and pie charts to express more advanced insights about quantitative information.
+\paragraph*{}
+Stradefi SA is one of these companies that has found out that strong data visualization and graphical discovery analysis are essential for its customer to realize benefits from large, complex, and diverse data volumes. It aims to provide its customers and partners with easy-to-use graphical interfaces for accessing and analyzing data. Now, sophisticated charts enable users to advance their understanding. They can discover hidden data relationships within a range of internal and external sources, including geospatial data, and improve self-service actionable insight. 
+\paragraph*{}
+The $IG²$ software application that is being developed is one of the BI oriented systems dedicated to data visualization. it allows to represent a complex set of data bound to each other as a graph data structure that facilitates the comprehension, the management and the modification of each datum and its relations. The $IG²$ software is intended to be able to visualize complex data (the objects and their relations) on different devices, especially mobiles ones.
+\paragraph*{}
+This document presents the solution that I have developed in response to the specifications provided by Stradfi SA that present the business requirements. It is organized in five chapters. The chapter one concerns the problem statement. It presents how is born the idea of the bounded data visualization and the development if $IG²$ were born. The chapter two presents the state of the art and also discusses the solutions that have been chosen to develop the application. The chapter three the feasibility analysis and the requirements determination. The chapter four discusses the project plan and monitoring. And, finally, the chapter five discusses the realization of the prototype of the $IG²$.

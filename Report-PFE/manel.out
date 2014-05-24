@@ -1,0 +1,59 @@
+\BOOKMARK [0][-]{section*.3}{Introduction}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Problem Statement}{}% 2
+\BOOKMARK [1][-]{section.1.1}{Introduction}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.2}{Company's presentation}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.3}{Project issues}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.4}{Project summary}{chapter.1}% 6
+\BOOKMARK [2][-]{subsection.1.4.1}{Proposed solution}{section.1.4}% 7
+\BOOKMARK [1][-]{section.1.5}{Conclusion}{chapter.1}% 8
+\BOOKMARK [0][-]{chapter.2}{State of the art}{}% 9
+\BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.2}{Radial representation}{chapter.2}% 11
+\BOOKMARK [2][-]{subsection.2.2.1}{Javascript Infovis Tools \(JIT\) Framework}{section.2.2}% 12
+\BOOKMARK [2][-]{subsection.2.2.2}{D3JS Framework}{section.2.2}% 13
+\BOOKMARK [2][-]{subsection.2.2.3}{Sigma JS Framework}{section.2.2}% 14
+\BOOKMARK [2][-]{subsection.2.2.4}{Discussion}{section.2.2}% 15
+\BOOKMARK [1][-]{section.2.3}{Conclusion}{chapter.2}% 16
+\BOOKMARK [0][-]{chapter.3}{Feasibility Analysis and Requirements Determination}{}% 17
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 18
+\BOOKMARK [1][-]{section.3.2}{Identification of the business requierements}{chapter.3}% 19
+\BOOKMARK [1][-]{section.3.3}{Analysis of business requirements}{chapter.3}% 20
+\BOOKMARK [2][-]{subsection.3.3.1}{The general Use Case}{section.3.3}% 21
+\BOOKMARK [2][-]{subsection.3.3.2}{Use Case: Display a Graph}{section.3.3}% 22
+\BOOKMARK [3][-]{subsubsection.3.3.2.1}{Use Case description}{subsection.3.3.2}% 23
+\BOOKMARK [3][-]{subsubsection.3.3.2.2}{Use Case diagram}{subsection.3.3.2}% 24
+\BOOKMARK [3][-]{subsubsection.3.3.2.3}{The "Display Graph" activity diagram}{subsection.3.3.2}% 25
+\BOOKMARK [3][-]{subsubsection.3.3.2.4}{Use Case: Update Node}{subsection.3.3.2}% 26
+\BOOKMARK [3][-]{subsubsection.3.3.2.5}{Use Case diagram }{subsection.3.3.2}% 27
+\BOOKMARK [3][-]{subsubsection.3.3.2.6}{The "Update Nodes" Activity Diagram}{subsection.3.3.2}% 28
+\BOOKMARK [1][-]{section.3.4}{Conclusion}{chapter.3}% 29
+\BOOKMARK [0][-]{chapter.4}{The project plan}{}% 30
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 31
+\BOOKMARK [1][-]{section.4.2}{Methodology and software development life cycle}{chapter.4}% 32
+\BOOKMARK [2][-]{subsection.4.2.1}{SCRUM's presentation}{section.4.2}% 33
+\BOOKMARK [3][-]{subsubsection.4.2.1.1}{Scrum Principles}{subsection.4.2.1}% 34
+\BOOKMARK [3][-]{subsubsection.4.2.1.2}{Adopting an Empirical vs. Planned Process}{subsection.4.2.1}% 35
+\BOOKMARK [3][-]{subsubsection.4.2.1.3}{Scrum and Software Agility}{subsection.4.2.1}% 36
+\BOOKMARK [1][-]{section.4.3}{The IG2 project management}{chapter.4}% 37
+\BOOKMARK [1][-]{section.4.4}{The overall list requirements}{chapter.4}% 38
+\BOOKMARK [1][-]{section.4.5}{Conclusion}{chapter.4}% 39
+\BOOKMARK [0][-]{chapter.5}{Realization}{}% 40
+\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 41
+\BOOKMARK [1][-]{section.5.2}{The MVC Architecture}{chapter.5}% 42
+\BOOKMARK [1][-]{section.5.3}{The 3-tiers architecture point of view of the \040IG2 }{chapter.5}% 43
+\BOOKMARK [1][-]{section.5.4}{The MVC architecture point of view of the IG2}{chapter.5}% 44
+\BOOKMARK [1][-]{section.5.5}{The logical architecture}{chapter.5}% 45
+\BOOKMARK [1][-]{section.5.6}{Class diagram}{chapter.5}% 46
+\BOOKMARK [1][-]{section.5.7}{The sprints' achievement}{chapter.5}% 47
+\BOOKMARK [2][-]{subsection.5.7.1}{Sprint "zero": Project initiation}{section.5.7}% 48
+\BOOKMARK [2][-]{subsection.5.7.2}{Sprint "one": Rendering a radial graph}{section.5.7}% 49
+\BOOKMARK [3][-]{subsubsection.5.7.2.1}{Detailed design of Sprint "one"}{subsection.5.7.2}% 50
+\BOOKMARK [3][-]{subsubsection.5.7.2.2}{Implementation and execution of Sprint "one"}{subsection.5.7.2}% 51
+\BOOKMARK [2][-]{subsection.5.7.3}{Sprint "two": managing relations and updating the nodes properties}{section.5.7}% 52
+\BOOKMARK [3][-]{subsubsection.5.7.3.1}{Detailed design of sprint "two"}{subsection.5.7.3}% 53
+\BOOKMARK [3][-]{subsubsection.5.7.3.2}{Implementation and execution of Sprint "two"}{subsection.5.7.3}% 54
+\BOOKMARK [2][-]{subsection.5.7.4}{Sprint "three": IG2 localization}{section.5.7}% 55
+\BOOKMARK [3][-]{subsubsection.5.7.4.1}{Implementation and execution of Sprint "three"}{subsection.5.7.4}% 56
+\BOOKMARK [0][-]{section*.102}{General Conclusion}{}% 57
+\BOOKMARK [0][-]{section*.107}{Bibliography}{}% 58
+\BOOKMARK [0][-]{section*.107}{Webography}{}% 59
