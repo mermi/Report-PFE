@@ -1,0 +1,24 @@
+%============ Bibliographie ============%
+\renewcommand{\bibname}{Bibliography}
+\lhead{}
+\addcontentsline{toc}{chapter}{Bibliography}
+\begin{thebibliography}{20}
+\bibitem[1]{1} Graph Theory, Rienhard Diestel, Spriner Verlag, Heidelberg - 2005
+\bibitem[2]{2} Graph Theroy, Keijo Ruohonen, Lecture notes in Graph Theory, Tampere University of Technology, Finland.
+\bibitem[3]{3}	Radial Edge Splatting for Visualizing Dynamic Directed Graphs; Michael Burch, Fabian Beck and Daniel Weiskopf. In proceeding of the International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, 24 - 26 February 2012 - Rome, Italy.
+\bibitem[4]{4} Radial Tree Graph Drawing Algorithm for Representing Large Hierarchies; Greg Book & Neeta Keshary, internal report of the University of Connecticut, December 2001
+\bibitem[5]{5} Optimizing a radial layout of bipartite graphs for a tool visualizing security alerts; Maxime Dumas, Michael J. McGu?n, Jean-Marc Robert and Marie-Claire Willig. Lecture Notes in Computer Science Volume 7034, 2012, pp 203-214
+\bibitem[6]{6} Data Processing and Visualization Tools; European Public Sector Information Platform, Topic Report No. 2013/07 
+\bibitem [7]{7}D3 Tips and Tricks, Interactive Data Visualization in a Web Browser; Malcolm Maclean, Lean Publishing, 2013.
+\bibitem[8]{8} JavaScript (HTML5, CSS3) Toolkits for InfoVis (Graphics); Amir Kanuric, Raoul Rubien, Jorg Schlager, Graz University of Technology, Survey on JavaScript InfoVis tools.
+\bibitem[9]{9} Development of InfoVis Software for Digital Forensics; Grant Osborne, Benjamin Turnbull and Jill Slay. 2012 IEEE 36th International Conference on Computer Software and Applications Workshops, pp 213-217.
+\bibitem[10]{10} M. Poppendieck, "A History of Lean: From Manufacturing to Software Development," in JAOO Conference, Aarhus, Denmark, 2005.
+\bibitem[11]{11} J. K. Liker, The Toyota way: 14 Management Principles from the World's Greatest Manufacturer. New York: McGraw-Hill, 2004.
+\bibitem[12]{12} W. D. Holford and M. Ebrahimi, "Honda: Approach to Innovation in Aerospace and Automotive/Pick-Up Truck Development: A Dialectical Yet Coherent Firm," in 40th Annual Hawaii International Conference on System Sciences (HICSS-40), Big Island, Hawaii, 2007.
+\bibitem[13]{13} H. Takeuchi and I. Nonaka, Hitotsubashi on Knowledge Management. Singapore: John Wiley & Sons (Asia), 2004.
+\bibitem[14]{14} P. M. Senge, The Fifth Discipline: the Art and Practice of the Learning Organization. New York: Currency, 1990.
+\bibitem[15]{15} K. Schwaber, Agile project management with Scrum. Redmond, Wash.: Microsoft Press, 2004.
+\bibitem[16]{16} K. Schwaber and M. Beedle, Agile software development with scrum: Prentice Hall, 2002.
+\end{thebibliography}
+
+\clearpage

@@ -1,0 +1,114 @@
+\renewcommand{\thepage}{}
+\chapter{State of the art}
+\thispagestyle{empty}
+\pagestyle{fancy}
+\lhead{\small \bf  Chapter 2: State of the art}
+\rhead{}
+\chead{}
+\renewcommand\thepage{\arabic{page}}
+ \setcounter{minitocdepth}{1}
+\minitoc
+\clearpage
+
+\section{Introduction}
+\lettrine[lines=2,lhang=0.44,lraise=0,loversize=0.08,findent=-0.11em,slope=0.6em]%
+{I}{} mplementing an algorithm allowing to visualize graphs/trees data structure is a challenging but feasible task. Lots of works presenting such algorithms have already been done and published. Greg Book \& Neeta Keshary from the University of Connecticut present in [4] the implementation of an algorithm for the radial visualization of large hierarchies. Maxime Dumas at al. in [5] also present a solution for the optimization of a radial layout of bipartite graphs.
+Some of these algorithms have been improved and implemented as open source solutions. The choice has therefore been easy to make. We decided to use an existing open source library instead of implementing our own algorithm.
+In this state of the art, we compare different existing solutions and discuss pro and cons of each one of them in order to explain the reasons that have oriented us in our final choice.
+\section{Radial representation}
+\paragraph*{}
+A radial graph drawing is a representation in which the vertices lie on concentric circles of finite radius. In the context of our domain, this kind of representation facilitates the management and the exploration of data structures, formalized as graphs, using mobile devices. These latter "suffer" from the usual small size of their displays.
+\paragraph*{}
+Many implementations of different algorithms exist [6]. Some of them have been implemented in C, others in Java, etc. According to the specification of our application, we had to implement a HTML 5 based application. We had either to implement our own visualization application or, rather use an existing open source library. As we have already mentioned it, our choice went to an open source library. In the following paragraphs we present a survey of some existing solutions in order to select the one that covers all/most of our needs.
+\paragraph*{}
+The use of HTML5 imposes the inherent technologies and languages to be used: HTML/XML, CSS and JavaScript. Our main objective was to select the appropriate JavaScript library that supports the radial visualization of graphs and trees. We have experimented, among others, D3JS [7][W4], JavaScript Infovis Tools (JIT) [8][9][W5] and SigmaJS [W6].
+\subsection{Javascript Infovis Tools (JIT) Framework}
+\paragraph*{}
+The JavaScript InfoVis Tollkit (JIT) is a JavaScript information visualization library that enables interactive visualizations of data using only HTML, CSS and JavaScript. InfoVis was created by Nicolas Garcia Belmonte in 2008 and acquired by Sencha Labs in 2010[W7]. The basic idea behind using InfoVis is to first define your data, and then instantiate a new object from the selection of predefined chart types defined in InfoVis, and finally load your data into the object.
+\paragraph*{}
+The predefined chart types generally expect data to be JSON objects formatted in a specific way. Objects may grouped in different groups, A \textit{color} property specifies the colors that should be used for each grouping. A \textit{label} property correlates to the labels on the axes for each grouping. Finally a \textit{values} property is quite literally an array that holds objects that specify the values for each grouping.
+To create a new chart in InfoVis one must instantiate a new object from the list of predefined chart types that InfoVis supports:
+\begin{itemize}
+\item AreaChart
+\item BarChart
+\item PieChart
+\item TreeMap
+\item Force Directed
+\item \textbf{Radial Graph}
+\item Sunburst
+\item Icicle
+\item SpaceTree
+\item HyperTree
+\end{itemize} 
+\paragraph*{}
+While this may be a limiting factor if you want to create a chart that is not yet supported, it can also be seen as an opportunity. The InfoVis project is completely open source and available on Github. To create a new chart, one needs to instantiate a new object from the constructor of the chart type needed. From the above information it should be clear that by using InfoVis you can create rich, interactive charts. InfoVis is ideal for quickly producing professional looking data visualizations. The limitation with InfoVis is if you want to use a chart type that is not yet supported, like a time series, bubble chart, or spark line.
+\subsection{D3JS Framework}
+\paragraph*{}
+D3JS is a JavaScript library for manipulating documents based on data. That means that it is a tool that can be used in conjunction with other tools to get a job done. Those other tools are mainly HTML and CSS (amongst others) but you don't need to know too much about either to use D3. It's an open framework, which means that there are no hidden mysteries about how it does its magic and it allows others to contribute to a constant cycle of improvement. It's built to leverage Web standards which means that modern browsers do not have to do anything special to use D3, they just have to support the framework that the Internet has adopted for ease of use.
+\paragraph*{}
+The interesting feature of D3 is that it allows you to associate data and what appears on the screen in a way that directly links the two. Change the data and you change the object on the screen. D3 is trick is to let you set what appears on the screen. A circle, a line, a point on a map, a graph, a bouncing ball, a gradient (and way, way more). Once the data and the object are linked the possibilities are endless.
+\subsection{Sigma JS Framework}
+\paragraph*{}
+Sigma JS is a JavaScript library dedicated to graph drawing. Sigma provides a lot of built-in features, such as Canvas and WebGL renderers or mouse and touch support, to make networks manipulation on Web pages smooth and fast for the user. It provides a lot of different settings to simplify the  customization of the drawing and the interaction with networks. It is also possible to add user functions to customize the rendering of nodes and edges.
+\paragraph*{}
+Sigma is a rendering engine, it, therefore allows to add the needed interactivity. The public API makes it possible to modify the data, move the camera, refresh the rendering, listen to events, etc. Sigma aims to help you display networks on the Web, from simple interactive publications of networks to rich Web applications featuring dynamic network exploration.
+\subsection{Discussion}
+\paragraph*{}
+In this table (table-1) we present a comparative between these librairies which respond to the most of our requierements, and we explain the developement of each library 
+\newpage
+\begin{landscape}
+\begin{table}[Ht!]
+\centering
+\begin{tabular}{|p{5cm}|p{5cm}|p{5cm}|p{5cm}|}
+\hline
+\textbf{\begin{center}
+features
+\end{center}}& \textbf{\begin{center}
+SigmaJS 
+\end{center}}& \textbf{\begin{center}
+D3JS
+\end{center}} & \textbf{\begin{center}
+Javascript Infovis Toolkit
+\end{center}}\\
+\hline
+Parse structured data and graphically visualize it  & yes & yes & yes \\
+\hline
+Render radial graph & no only usual graphs & yes & yes \\
+\hline
+Creation of nodes and relations from a script & yes & yes & yes\\
+\hline
+Creation of nodes and relations interactively & yes & no & yes \\
+\hline
+Remove relations & no & yes & yes\\
+\hline
+Update relations & no & yes & yes\\
+\hline
+Select Nodes & yes & yes & yes \\
+\hline
+Select the node of interest & no & no & yes:OOTB \\
+\hline
+Relations' filtering & yes & yes & yes \\
+\hline
+Search & no & no & no\\
+\hline
+Drag and Drop (Nodes, Graph) & yes & yes & yes \\
+\hline
+Navigate in the radial graph & yes & yes & yes \\
+\hline
+Access to the contain of nodes and relations & no & yes & yes \\
+\hline
+\end{tabular}
+\caption{Summary of the graphic Javascript Librairies}
+\label{Librairies comparative}
+\end{table}
+\end{landscape}
+\paragraph*{}
+This short survey has shown that SigmaJS is an interesting library however there is no support of radial visualization. At the first glance, D3JS and JIT seem close to each other and offer almost the same features and capabilities.
+\paragraph*{}
+D3JS doesn't allow to center the node of interest, while this feature come out-of-the-box in JIT. In the application specification, centering the node of interest is a requirement.
+\paragraph*{}
+There is no support of the interactive creation of nodes and edges in D3JS. In JIT it is possible to add nodes and edges using a form.
+\paragraph*{}
+Other minor feature differ from D3JS and JIT, however they are not that important. Thus we have chosen JIT to implement the $IG²$ application.
+\section{Conclusion}
+In this chapter we have presented the results of the experiments we did with some JavaScript graphical libraries. Except SigmaJS, the other libraries are suitable to the specifications. Both D3JS and JIT allow the radial representation of data structures in general and graph in particular. The choice of JIT has been oriented by some out of the box characteristics that are not supported in D3JS and need an additional effort in order to implement them.

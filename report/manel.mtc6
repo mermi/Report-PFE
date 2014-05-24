@@ -1,0 +1,16 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {V.1}Introduction}{\reset@font\mtcSfont 34}{section.5.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {V.2}The MVC Architecture}{\reset@font\mtcSfont 34}{section.5.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {V.3}The 3-tiers architecture point of view of the $ IG{^2} $}{\reset@font\mtcSfont 35}{section.5.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {V.4}The MVC architecture point of view of the $IG{^2}$}{\reset@font\mtcSfont 35}{section.5.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {V.5}The logical architecture}{\reset@font\mtcSfont 36}{section.5.5}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {V.6}Class diagram}{\reset@font\mtcSfont 37}{section.5.6}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {V.7}The sprints' achievement}{\reset@font\mtcSfont 38}{section.5.7}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {V.7.1}Sprint "zero": Project initiation}{\reset@font\mtcSSfont 38}{subsection.5.7.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {V.7.2}Sprint "one": Rendering a radial graph}{\reset@font\mtcSSfont 39}{subsection.5.7.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {V.7.2.1}Detailed design of Sprint "one"}{\reset@font\mtcSSSfont 39}{subsubsection.5.7.2.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {V.7.2.2}Implementation and execution of Sprint "one"}{\reset@font\mtcSSSfont 40}{subsubsection.5.7.2.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {V.7.3}Sprint "two": managing relations and updating the nodes properties}{\reset@font\mtcSSfont 42}{subsection.5.7.3}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {V.7.3.1}Detailed design of sprint "two"}{\reset@font\mtcSSSfont 42}{subsubsection.5.7.3.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {V.7.3.2}Implementation and execution of Sprint "two"}{\reset@font\mtcSSSfont 43}{subsubsection.5.7.3.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {V.7.4}Sprint "three": $IG{^2}$ localization}{\reset@font\mtcSSfont 44}{subsection.5.7.4}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {V.7.4.1}Implementation and execution of Sprint "three"}{\reset@font\mtcSSSfont 45}{subsubsection.5.7.4.1}}

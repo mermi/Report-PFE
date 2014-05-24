@@ -1,0 +1,112 @@
+%------------------------------------------------------------------------------------------------------------------
+%  "PageDeGardeISI" est un paquage qui permet de générer la page de garde de l'ISI,
+%  l'Institut Supérieur d'Informatique de l'Université Tunis El Manar, Ariana, Tunisie.
+%
+%  La mise en page a été adapté en LaTeX par :
+%  M. Sabri BAHRINI, M. Moez MAÂMER, M. Med Ali Mortadha DAHMANI, ISI 2013
+%------------------------------------------------------------------------------------------------------------------
+
+%------------------------------------------------------------------------------------------------------------------
+%  Identification
+%------------------------------------------------------------------------------------------------------------------
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{PageDeGarde}[2013/06/05 v1.0 page de garde de l'ISI]
+
+\RequirePackage[left=25mm, right=25mm, top=20mm, bottom=20mm]{geometry}
+\RequirePackage[francais]{babel}
+\RequirePackage[T1]{fontenc}
+\RequirePackage[latin1]{inputenc}
+\RequirePackage{color}
+\RequirePackage{graphicx}
+\RequirePackage{amsmath}
+\RequirePackage{amsfonts}
+\RequirePackage{amssymb}
+\RequirePackage{setspace}
+\RequirePackage{fancyhdr}
+\RequirePackage{pslatex} 
+\RequirePackage{lastpage} 
+\RequirePackage{ifthen}
+
+\newcommand*{\makepageDeGarde}
+{
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.2pt}
+\lfoot{}
+\cfoot{\textbf{University Year \@anneeUniversitaire}}
+\rfoot{}
+
+\begin{center}
+\textcolor{blue}{
+	\Large{
+		\textbf{ 
+			\textsc{Tunisian Republic\\
+			Ministry of Higher Education\\
+			and Scientific Research\\
+			Universities of Tunis El Manar\\
+			High Institue of Computing\\
+			}
+		}
+	}
+}
+
+\vspace{10mm}
+\IfFileExists{LogoISI.png}{
+	\includegraphics[width=5cm]{LogoISI} \\
+}{}
+
+\vspace{10mm}
+	\textbf{
+	\huge{
+		Graduation Project Report\\
+	}
+}
+
+\vspace{10mm}
+\Large{
+	For the applied licence \\ \vspace{2mm} Diploma: \textbf{\@diplome}\\ \vspace{2mm} in \textbf{\@option}\\
+}
+
+\vspace{10mm}
+\Large{
+	Released by \\ \vspace{2mm} \@prenomNomUn \@prenomNomDe 
+}
+
+\vspace{10mm}
+\Large{
+	Subject\\ \vspace{2mm}
+	\textbf{
+		\huge{
+		\@sujet\\
+		}
+	}
+}
+
+\vspace{15mm}
+\Large{
+	Company\\
+}
+
+\vspace{2mm}
+\IfFileExists{\@organismeAccueilImg}{
+\includegraphics[width=6cm]{\@organismeAccueilImg}\\
+}{}
+
+\vspace{15mm}
+	\begin{tabular}{cc}
+		\@encadrantEte \\	
+		\Large{ISI Supervisor:} & \textbf{Mr.} \Large{\@encadrantISI} \\	
+	\end{tabular} 
+\end{center}
+
+}
+
+\newcommand*{\diplome}[1]{\def\@diplome{#1}}
+\newcommand*{\option}[1]{\def\@option{#1}}
+\newcommand*{\prenomNomUn}[2]{\def\@prenomNomUn{#1 \textbf{\uppercase{#2}}}}
+\newcommand*{\prenomNomDe}[2]{\def\@prenomNomDe{\ifthenelse{\equal{#1}{}}{}{\hspace{5mm} \& \hspace{5mm} #1 \textbf{\uppercase{#2}}}}}
+\newcommand*{\sujet}[1]{\def\@sujet{#1}}
+\newcommand*{\organismeAccueil}[1]{\def\@organismeAccueilImg{#1}}
+\newcommand*{\encadrantEte}[2]{\def\@encadrantEte{\ifthenelse{\equal{#1}{}}{}{\Large{Company Supervisor:} & \textbf{Mr.} \Large{#1} \textbf{\uppercase{#2}}}}}
+\newcommand*{\encadrantISI}[2]{\def\@encadrantISI{#1 \textbf{\uppercase{#2}}}}
+\newcommand*{\anneeUniversitaire}[1]{\def\@anneeUniversitaire{#1}}

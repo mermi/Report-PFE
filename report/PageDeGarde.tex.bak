@@ -1,0 +1,32 @@
+\documentclass[a4paper,11pt]{report}
+\usepackage{PageDeGarde} 
+
+% Diplôme, tel que Licence Appliquée, Ingéniorat Nationale en Informatique
+\diplome{Bachelor degree}
+
+% Option suivis, tel que Systèmes Informatiques et Logiciels, Systèmes Embarqués
+\option{Computer System and Software}
+
+% Prénom suivis du nom (si Monôme \prenomNomDe{}{}, si non \prenomNomDe{Foulen}{Ben Foulen})
+\prenomNomUn{Manel}{RHAIEM}
+%\prenomNomDe{}{}
+
+% Sujet/Nom du projet
+\sujet{Developement prototype for IG² Solution}
+
+% Logo de l'organisme d'accueil (nom de fichier image)
+\organismeAccueil{comapny.jpg}
+
+% Nom de l'encadrant de l'entreprise (si le sujet à l'ISI \encadrantEte{}{}, si non \encadrantEte{Foulen}{Ben Foulen})
+\encadrantEte{Henri}{Severac} & \encadrantEte{Ramzi}{Guetari}
+%\encadrantEte{}{}
+
+% Nom de l'encadrant de l'ISI
+\encadrantISI{Fahem}{Kebair}
+
+% Année universitaire, de forme AAAA-AAAA
+\anneeUniversitaire{2013-2014}
+
+\begin{document}
+\makepageDeGarde
+\end{document}

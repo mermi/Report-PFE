@@ -1,0 +1,36 @@
+\select@language {english}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Problem Statement}{3}{chapter.1}
+\contentsline {figure}{\numberline {I.1}{\ignorespaces Directed Graph}}{5}{figure.1.1}
+\contentsline {figure}{\numberline {I.2}{\ignorespaces Usual graphical representation of a graph/tree}}{5}{figure.1.2}
+\contentsline {figure}{\numberline {I.3}{\ignorespaces Radial Form}}{7}{figure.1.3}
+\addvspace {10\p@ }
+\contentsline {xchapter}{State of the art}{8}{chapter.2}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Feasibility Analysis and Requirements Determination}{14}{chapter.3}
+\contentsline {figure}{\numberline {III.1}{\ignorespaces General use case diagram}}{18}{figure.3.1}
+\contentsline {figure}{\numberline {III.2}{\ignorespaces Display Graph Use Case}}{19}{figure.3.2}
+\contentsline {figure}{\numberline {III.3}{\ignorespaces Display Graph Activity Diagram}}{20}{figure.3.3}
+\contentsline {figure}{\numberline {III.4}{\ignorespaces Use case Update node}}{21}{figure.3.4}
+\contentsline {figure}{\numberline {III.5}{\ignorespaces Node Update Activity Diagram}}{22}{figure.3.5}
+\addvspace {10\p@ }
+\contentsline {xchapter}{The project plan}{23}{chapter.4}
+\contentsline {figure}{\numberline {IV.1}{\ignorespaces The project life cycle}}{24}{figure.4.1}
+\contentsline {figure}{\numberline {IV.2}{\ignorespaces The Scrum process}}{27}{figure.4.2}
+\contentsline {figure}{\numberline {IV.3}{\ignorespaces The $IG{^2}$ project plan}}{30}{figure.4.3}
+\contentsline {figure}{\numberline {IV.4}{\ignorespaces List of scheduled tasks}}{31}{figure.4.4}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Realization}{33}{chapter.5}
+\contentsline {figure}{\numberline {V.1}{\ignorespaces MVC model}}{34}{figure.5.1}
+\contentsline {figure}{\numberline {V.2}{\ignorespaces Logical architecture}}{36}{figure.5.2}
+\contentsline {figure}{\numberline {V.3}{\ignorespaces $IG{^2}$ Class Diagram}}{38}{figure.5.3}
+\contentsline {figure}{\numberline {V.4}{\ignorespaces Rendering a radial graph Sequence Diagram}}{40}{figure.5.4}
+\contentsline {figure}{\numberline {V.5}{\ignorespaces The list of available objects}}{41}{figure.5.5}
+\contentsline {figure}{\numberline {V.6}{\ignorespaces Node of the interest and its properties}}{41}{figure.5.6}
+\contentsline {figure}{\numberline {V.7}{\ignorespaces Interest node with her informations}}{42}{figure.5.7}
+\contentsline {figure}{\numberline {V.8}{\ignorespaces Update the node properties Sequence Diagram}}{43}{figure.5.8}
+\contentsline {figure}{\numberline {V.9}{\ignorespaces types a relations handled by $IG{^2}$}}{44}{figure.5.9}
+\contentsline {figure}{\numberline {V.10}{\ignorespaces Updating a node}}{44}{figure.5.10}
+\contentsline {figure}{\numberline {V.11}{\ignorespaces French interface}}{46}{figure.5.11}
+\contentsline {figure}{\numberline {V.12}{\ignorespaces Arabic interface}}{46}{figure.5.12}
+\contentsline {figure}{\numberline {V.13}{\ignorespaces Chinese interface}}{47}{figure.5.13}

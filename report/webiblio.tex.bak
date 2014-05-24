@@ -1,0 +1,24 @@
+%============ Bibliographie ============%
+\renewcommand{\bibname}{Webography}
+\lhead{}
+\addcontentsline{toc}{chapter}{Webography}
+\begin{thebibliography}{20}
+\bibitem[W1]{W1} [\url{http://en.wikipedia.org/wiki/Radial\_ tree}]; last visit 17 April 2014; last modified on 9 May 2014.
+\bibitem[W2]{W2} [\url{http://en.wikipedia.org/wiki/Force-based\_ layout}]; last visit on 17 April 2014; last modification on 16 January 2014.
+\bibitem[W3]{W3}[\url{http://en.wikipedia.org/wiki/Directed\_ graph}]; last consult 17 April 2014; Modified 3 April 2014.
+\bibitem[W4]{W4} [\url{http://d3js.org/}];last visit 17 April 2014
+\bibitem[W5]{W5} [\url{http://philogb.github.io/jit/}];last visit 17 April 2014
+\bibitem[W6]{W6} [\url{http://sigmajs.org/}]; last visit 17 April 2014.
+\bibitem[W7]{W7} [\url{http://www.senchalabs.org/}]; last visit 17 April 2014.
+\bibitem[W8]{W8} [\url{http://en.wikipedia.org/wiki/Waterfall\_ model}]; last visit 17 April 2014; last modification 3 May 2014.
+\bibitem[W9]{W9} [\url{http://en.wikipedia.org/wiki/V-Model\_\%\ 28software\_ development\%\ 29}] V-Model software developement From Wikipedia; last visit 17 April 2014; last modification 1 April 2014.
+\bibitem[W10]{W10} [\url{http://en.wikipedia.org/wiki/Iterative\_ and\_ incremental\_ development}] Incremental software developement, From Wikipedia; last visit 17 April 2014; last modification 14 May 2014.
+\bibitem[W11]{W11} [\url{http://en.wikipedia.org/wiki/Scrum\_ \% 28software\_ development\% 29}] Scrum software developement; From Wikipedia; last visit 17 April 2014; last modification 18 May 2014.
+\bibitem[W12]{W12} [\url{https://ist.berkeley.edu/as-ag/pub/pdf/mvc-seminar.pdf}] Model-View-Controller: A Design Pattern for Software. Presented in a seminar of Berkley University in 2004. 
+\bibitem[W13]{W13} [\url{http://en.wikipedia.org/wiki/Bootstrap\_\% 28front-end_framework\%29}] Bootstrap (front-end framework) From Wikipedia, the free encyclopedia; 
+\bibitem[W14]{W14} [\url{http://en.wikipedia.org/wiki/PHP}] PHP From Wikipedia, the free encyclopedia 
+\bibitem[W15] {W15} [\url{http://philogb.github.io/blog/2008/05/07/rgraph-quick-tutorial/}] Feeding JSON tree structures to the JIT;Posted in: javascript infovis toolkit 
+\bibitem[W16]{W16} [\url{http://philogb.github.io/blog/2008/04/27/on-controllers/}] On controllers; Posted in: javascript infovis toolkit 
+\bibitem[W17]{W17} [\url{http://philogb.github.io/jit/static/v20/Docs/files/Core/Core-js.html}]; JavaScript InfoVis Toolkit Documentation 
+\end{thebibliography}
+\clearpage
